@@ -5,7 +5,7 @@ Home Page
 ![Home Page](https://github.com/Pierre221352/Term-3-Final-project/assets/125281158/3518279d-4fe1-45a1-8380-8408048bd86d)
 
 
-Welcome to the Cruise Booking Website! This website is designed to help users browse and book exciting cruise adventures. Whether you're a developer looking to contribute or a user exploring cruise options, this README will guide you through the project.
+Welcome to Nordic Trips Cruise Booking Website! This website is designed to help users browse and book exciting cruise adventures. Whether you're a developer looking to contribute or a user exploring cruise options, this README will guide you through the project.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
