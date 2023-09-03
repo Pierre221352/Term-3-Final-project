@@ -28,6 +28,9 @@ The Checkout Page
 ![Checkout Page](https://github.com/Pierre221352/Term-3-Final-project/assets/125281158/4e5a2653-6b68-427b-a0dd-307dac68d338)
 On this Page you pay for your tickets that you booked.
 
+Demonstration Video Link:
+https://www.loom.com/looms/videos/Dv100-Term-3-abae42f110334c1bac7493d529626252
+
 ## Getting Started
 
 ### Prerequisites
