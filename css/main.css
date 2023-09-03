@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Oswald:wght@600&family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@600&family=Russo+One&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.navbar {
+    height: 100px;
+    background-color: #004C6D;
+}
+
+.navbar a {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.navbar .btn-outline-success {
+    color: #f5f5f5;
+    border-color: #FFCC33;
+}
+
+.navbar .ms-auto {
+    margin-left: auto;
+}
+
+.navbar-brand img {
+    transition: transform 0.3s;
+}
+
+.navbar-brand.clicked img {
+    transform: rotate(360deg);
+}
+
+.carousel-container {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.carousel-inner img {
+    border-radius: 20px;
+}
+
+body {
+    background-image: url('assets/image\ 77.png');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+p {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn-primary {
+    background-color: #FFCC33;
+    color: black;
+    border-color: black;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 6px 12px;
+    margin-top: 30px;
+    display: block;
+    width: 30%;
+    text-align: center;
+}
+
+.btn-primary :hover {
+    background-color: #FFCC33;
+    border-color: black;
+}
+
+h1,h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: black;
+}
+
+.filters {
+    background-color: #FFCC33;
+    padding: 10px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.filters select {
+    background-color: white; 
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.filterForm button {
+    background-color: #004C6D;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+
+.card {
+    background-color: #004C6D;
+    color: #f5f5f5;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(2, 2, 2, 0.1);
+}
+
+.footer {
+    height: 90px;
+    width: 100%;
+    background-color: #004C6D;
+    color: #f5f5f5;
+    text-align: center;
+    line-height: 90px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+}
