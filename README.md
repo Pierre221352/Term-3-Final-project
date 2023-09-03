@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/cruise-booking-website.git
+   [git clone https://github.com/your-username/cruise-booking-website.git](https://github.com/Pierre221352/Term-3-Final-project)
 Usage
 Browsing Cruises
 Open the website in your web browser.
