@@ -2,7 +2,7 @@
 # Cruise Booking Website
 
 Home Page
-![Home Page](https://github.com/Pierre221352/Term-3-Final-project/assets/125281158/5a971a20-c192-460a-8afa-d1681287458e)
+![Home Page](https://github.com/Pierre221352/Term-3-Final-project/assets/125281158/3518279d-4fe1-45a1-8380-8408048bd86d)
 
 
 Welcome to the Cruise Booking Website! This website is designed to help users browse and book exciting cruise adventures. Whether you're a developer looking to contribute or a user exploring cruise options, this README will guide you through the project.
@@ -20,8 +20,8 @@ Welcome to the Cruise Booking Website! This website is designed to help users br
 The Trips Page
 - ![Trips Page ](https://github.com/Pierre221352/Term-3-Final-project/assets/125281158/7657eaa3-18db-4dbd-8d07-ef53e64f4796)
 - Here you can book any of the trips you see by just clicking on the "Book Now" buttons. Or you can just use the filter to make
-- your search easier.
-- 
+  your search easier.
+  
 ![Trips Page 1](https://github.com/Pierre221352/Term-3-Final-project/assets/125281158/759ad1a7-8d6c-4d0d-bbd2-5f7aba793e5a)
 
 The Checkout Page
