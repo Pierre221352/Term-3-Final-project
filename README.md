@@ -29,7 +29,7 @@ The Checkout Page
 On this Page you pay for your tickets that you booked.
 
 Demonstration Video Link:
-https://www.loom.com/looms/videos/Dv100-Term-3-abae42f110334c1bac7493d529626252
+[https://www.loom.com/looms/videos/Dv100-Term-3-abae42f110334c1bac7493d529626252](https://drive.google.com/file/d/1edWu9_yeO_RQ2kVUf2Ro9Jewq9E4bUqm/view?usp=drive_link)
 
 ## Getting Started
 
